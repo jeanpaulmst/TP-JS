@@ -1,0 +1,34 @@
+#app {
+  margin: 4vh
+}
+
+/*---SECCIONES---*/
+#section1 {
+  padding: 2vh;
+  border: solid black;
+}
+#section2 {
+  padding: 2vh;
+  border: solid black;
+}
+#section3 {
+  padding: 2vh;
+  border: solid black;
+}
+#section3 li:hover{
+  cursor: pointer;
+}
+#section4 {
+  padding: 2vh;
+  border: solid black;
+}
+
+#section5 {
+  padding: 2vh;
+  border: solid black;
+}
+
+#formIngreso {
+  margin-bottom: 2vh;
+}
+
